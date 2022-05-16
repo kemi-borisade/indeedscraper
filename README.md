@@ -5,3 +5,10 @@ When applying for jobs, scrolling through every job listing page on indeed can b
 - It can also be useful in answering questions such as 
    - What skills are employers looking for 
    - What locations in Canada have more jobs 
+
+
+
+- File Descriptions
+   - indeedjob : Project folder. Python file is in spiders folder
+   - scrapy.cfg : Configuration file
+   - indeed.json : Output file
